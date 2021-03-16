@@ -61,8 +61,6 @@ Pending...
 
 - Prepare a test summary report and include the information about platform, app, tools etc
 
-- Include all tests related document in same github repository.
-
 - Manual test cases to cover the given scenarios
 
 - [ Config & App Execution Video Link - https://drive.google.com/file/d/10G-GRBIui6wfbpEKx7mILTIOuLcBhw-U/view?usp=sharing ]
